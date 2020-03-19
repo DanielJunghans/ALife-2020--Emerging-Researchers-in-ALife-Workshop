@@ -1,4 +1,4 @@
-# Emerging Researchers in Artificial Life Workshop 2020
+## Overview
 The Emerging Researchers in Artificial Life (ERA) is the International Society for Artificial Life (ISAL) official student, post-doc, and junior researcher group. 
 The purpose of the ISAL student group is to provide opportunities for students and post-docs interested in artificial life to interact with each other, develop professionally, and contribute to the broader artificial life community.
 This workshop will serve as 
